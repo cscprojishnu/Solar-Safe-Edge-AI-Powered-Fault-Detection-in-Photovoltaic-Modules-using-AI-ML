@@ -1,0 +1,1 @@
+# Solar-Safe-Edge-AI-Powered-Fault-Detection-in-Photovoltaic-Modules-using-AI-ML
