@@ -1,7 +1,7 @@
 # 🌞 SOLAR-SAFE: Edge AI-Powered Fault Detection in Photovoltaic Modules
 
 **Authors:**  
-Jishnu Teja Dandamudi (IEEE Member), Adithya C, Dasari Charith, Sane Sandeep, Prajeesh C. B, Abhishek S
+Jishnu Teja Dandamudi (IEEE Member), Adithya C, Dasari Charith, Sane Sandeep, Prajeesh C. B, Abhishek S     
 **Institution:** Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore, India  
 📧 Contact: [djishnuteja2006@gmail.com](mailto:djishnuteja2006@gmail.com)
 
