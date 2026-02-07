@@ -7,9 +7,6 @@ Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore
 
 Department of Continuing Education, Indian Institue of Science, Bengaluru, India
 
-
-📧 Contact: [djishnuteja2006@gmail.com](mailto:djishnuteja2006@gmail.com)
-
 ---
 
 ## 📘 Project Overview
