@@ -4,7 +4,7 @@
 Jishnu Teja Dandamudi (IEEE Member), Yogendra Chhetri, Prajeesh C. B, Abhishek S     
 **Institution:** Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore, India 
 
-                 Department of Continuing Education, Indian Institue of Science, Bengaluru, India
+Department of Continuing Education, Indian Institue of Science, Bengaluru, India
 📧 Contact: [djishnuteja2006@gmail.com](mailto:djishnuteja2006@gmail.com)
 
 ---
