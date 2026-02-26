@@ -7,6 +7,10 @@ Amrita School of Artificial Intelligence, Amrita Vishwa Vidyapeetham, Coimbatore
 
 Department of Continuing Education, Indian Institue of Science, Bengaluru, India
 
+> **Solar-Safe: An Edge AI - Powered Fault Detection in PhotoVoltaic Modules Using Deep Learning Models**  
+> Published in: *IEEE Xplore* (2026)  
+> DOI: [10.1109/ICITEICS64870.2025.11341086](https://doi.org/10.1109/ICITEICS64870.2025.11341086)
+
 ---
 
 ## 📘 Project Overview
